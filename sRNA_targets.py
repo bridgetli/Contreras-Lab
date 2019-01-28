@@ -1,7 +1,7 @@
 ''' 
     sRNAHiddenTargets.py
     1/12/2019
-    This program finds matches in the sRNA positions of "hot regions" and the predicted targets
+    This program finds matches in the sRNA positions of "hot regions" and the predicted mRNA targets
     to determine which targets to test experimentally for interactions
 '''
 
