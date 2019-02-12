@@ -17,7 +17,7 @@ from openpyxl import load_workbook
 from xlrd import XLRDError
 
 # Read in Excel file given file name
-file = pd.ExcelFile('example.intarna.for.overlap.code.xlsx')
+file = pd.ExcelFile('Filtering.Targets.xlsx')
 file.sheet_names
 
 # Load workbook so you can add new sheets w/o overwriting existing ones
