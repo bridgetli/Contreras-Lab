@@ -1,5 +1,5 @@
 ''' 
-    sRNAHiddenTargets.py
+    sRNA-targets.py
     1/12/2019
     This program finds matches in the sRNA positions of "hot regions" and the predicted mRNA targets
     to determine which targets to test experimentally for interactions
@@ -22,14 +22,14 @@ file.sheet_names
 
 # Load workbook so you can add new sheets w/o overwriting existing ones
 # Use the specific name of your Excel file
-book = load_workbook('example.intarna.for.overlap.code.xlsx')
-writer = pd.ExcelWriter('example.intarna.for.overlap.code.xlsx', engine='openpyxl') 
+book = load_workbook('Filtering.Targets.xlsx')
+writer = pd.ExcelWriter('Filtering.Targets.xlsx', engine='openpyxl') 
 writer.book = book
 writer.sheets = dict((ws.title, ws) for ws in book.worksheets)
 
 # Parse Excel sheets into separate DataFrames for predictions and hotRegions 
 # Use the specific names of the sheets in your file
-predictions = file.parse('example.intarna.for.overlap.cod')
+predictions = file.parse('IntaRNA.output')
 hotRegions = file.parse('hot.region.matrix')
 
 # Loop through every row in hotRegions DataFrame
