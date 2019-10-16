@@ -105,7 +105,7 @@ for i, row in hotRegions.iterrows():
     else:
         
         # Loop through every row in existing DataFrame to find matches in sRNA and position
-        for j, row in each.iterrows():
+        for j, row in existing.iterrows():
             
             # Find matches between the sRNA start and end and the hotRegion positions
             predictionsPos = set(range(existing.loc[j]['sRNA_start_pos'], existing.loc[j]['sRNA_end_pos'] + 1))
