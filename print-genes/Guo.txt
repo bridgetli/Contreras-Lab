@@ -1,0 +1,12 @@
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1509178
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1509177
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1509176
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1509175
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1509174
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1509173
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1509172
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1509171
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1425202
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1425201
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1425200
+./sratoolkit.2.9.6-1-ubuntu64/bin/fastq-dump SRR1425199
