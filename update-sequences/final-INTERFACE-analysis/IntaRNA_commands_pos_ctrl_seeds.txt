@@ -1,0 +1,14 @@
+IntaRNA -q subdirectory/fnrS.fasta -t annotated_5_utr_plus_100.fasta --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/fnrS.csv 
+IntaRNA -q subdirectory/fnrS.fasta -t annotated_5_utr_plus_100.fasta  --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/fnrS.csv
+IntaRNA -q subdirectory/gcvB.fasta -t annotated_5_utr_plus_100.fasta --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/gcvB.csv 
+IntaRNA -q subdirectory/gcvB.fasta -t annotated_5_utr_plus_100.fasta  --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/gcvB.csv
+IntaRNA -q subdirectory/ipex.fasta -t annotated_5_utr_plus_100.fasta --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/ipex.csv 
+IntaRNA -q subdirectory/ipex.fasta -t annotated_5_utr_plus_100.fasta  --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/ipex.csv
+IntaRNA -q subdirectory/istR.fasta -t annotated_5_utr_plus_100.fasta --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/istR.csv 
+IntaRNA -q subdirectory/istR.fasta -t annotated_5_utr_plus_100.fasta  --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/istR.csv
+IntaRNA -q subdirectory/mgrR.fasta -t annotated_5_utr_plus_100.fasta --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/mgrR.csv 
+IntaRNA -q subdirectory/mgrR.fasta -t annotated_5_utr_plus_100.fasta  --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/mgrR.csv
+IntaRNA -q subdirectory/micL.fasta -t annotated_5_utr_plus_100.fasta --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/micL.csv 
+IntaRNA -q subdirectory/micL.fasta -t annotated_5_utr_plus_100.fasta  --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/micL.csv
+IntaRNA -q subdirectory/oxyS.fasta -t annotated_5_utr_plus_100.fasta --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/oxyS.csv 
+IntaRNA -q subdirectory/oxyS.fasta -t annotated_5_utr_plus_100.fasta  --outMode=C --outCsvCols 'id1,start1,end1,id2,start2,end2,E' > $SCRATCH/oxyS.csv
