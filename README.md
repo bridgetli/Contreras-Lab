@@ -2,7 +2,7 @@
 Code I've written for my research position in the Contreras Lab at UT Austin as a high school student.
 
 ### Code use:
-Each folder contains a different project.
+Each folder contains a different project/sub-project.
 Some folders contain subfolders. These are for when the same base code had to be run on multiple different datasets and required some modification.
 
 Please see .py files inside folders for code and descriptions about what the code does.
