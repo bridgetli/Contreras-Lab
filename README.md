@@ -9,11 +9,11 @@ Please see .py files inside folders for code and descriptions about what the cod
 The rest of the files in each folder are inputs or outputs.
 
 ### Project summaries:
-<b>Application of fluorescence-based in vivo RNA regional accessibility data to identify novel sRNA targets<\b>\
+<b>Application of fluorescence-based in vivo RNA regional accessibility data to identify novel sRNA targets</b>\
 sRNA target misidentification is attributed to heavy reliance of computational predictions on free energy predictions and lack of in vivo insight. Informing computational predictions with in vivo accessibility data can help elucidate potential targets.
 See "" for code.
 
-<b>Integrative data-mining approach that couples DNA protein occupancy, RNA-seq, and RNA accessibility data with motif identification and target prediction algorithmss<\b>\
+<b>Integrative data-mining approach that couples DNA protein occupancy, RNA-seq, and RNA accessibility data with motif identification and target prediction algorithmss</b>\
 
 ##### Application of fluorescence-based in vivo RNA regional accessibility data to identify novel sRNA targets
 
