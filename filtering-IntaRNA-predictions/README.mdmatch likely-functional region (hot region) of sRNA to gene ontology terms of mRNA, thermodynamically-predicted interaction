@@ -1,4 +1,0 @@
-# Filtering IntaRNA Predictions
-Application of fluorescence-based in vivo RNA regional accessibility data to identify novel sRNA targets.
-Match likely-functional region (hot region) of sRNA to mRNA. Rank by thermodynamically-predicted interaction.\
-Get top matches.
