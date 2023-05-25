@@ -8,6 +8,9 @@ Some folders contain subfolders. These are for when the same base code had to be
 Please see .py files inside folders for code and descriptions about what the code does.
 The rest of the files in each folder are inputs or outputs.
 
+### Project summary:
+
+
 ### Publications:
 Mihailovic, M. K., Ekdahl, A., Chen, A., Leistra, A. N., Li, B., Javier González Martínez, Law, M., Ejindu, C., Massé, E., Freddolino, P. L., & Contreras, L. M. (2021). Uncovering Transcriptional Regulators and Targets of sRNAs Using an Integrative Data-Mining Approach: H-NS-Regulated RseX as a Case Study. <i>Frontiers in Cellular and Infection Microbiology, 11</i>. https://doi.org/10.3389/fcimb.2021.696533
 
