@@ -2,7 +2,7 @@
     sRNA_targets.py
     8/06/2020
     This program finds matches in the sRNA positions of "hot regions" and the predicted targets
-    to determine which targets to test experimentally for interactions.
+    to determine which mRNA targets to test experimentally for interactions.
 '''
 
 # Use Anaconda, a distribution of Python for data science
