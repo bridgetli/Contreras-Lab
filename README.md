@@ -1,5 +1,5 @@
 # Contreras-Lab
-Coding projects I've completed for the Contreras Lab at UT Austin. All code written independently.
+Code I've written for my research position in the Contreras Lab at UT Austin as a high school student.
 
 ### Code use:
 Each folder contains a different project.
